@@ -1,6 +1,6 @@
 <template>
   <main>
-    <h1>Pixabay</h1>
+    <h1>PixGO</h1>
     <p class="subtitle">any pictures you can find!</p>
     <div class="search-wrap">
       <input class="input" type="text" v-model="updateValue"/>
